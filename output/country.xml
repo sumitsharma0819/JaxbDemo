@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<country xmlns:ns2="com.sumree.jaxb.bean.Country">
+    <countryPop>1000000000</countryPop>
+    <name>India</name>
+    <stateList>
+        <state>
+            <stateName>Punajb</stateName>
+            <statePop>20000000</statePop>
+        </state>
+        <state>
+            <stateName>Delhi</stateName>
+            <statePop>30000000</statePop>
+        </state>
+    </stateList>
+</country>
